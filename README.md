@@ -6,9 +6,9 @@ Software Engineer
 
 With four years of experience in digital marketing, I've established a solid foundation in analytics, user experience, and SEO optimization. Over the past two years, I've been dedicated to learning coding and web development and pursuing a career change to software development. I'm eager to leverage my diverse skill set and newfound coding expertise to excel in this new field.
 
-* 🌍  I'm based in Los Angeles, California
-* ✉️  You can contact me at [k.josephine19@gmail.com](mailto:k.josephine19@gmail.com)
-* 🧠  I'm learning NextJS
+* 🌍  I'm based in Los Angeles, California.
+* ✉️  You can contact me at [k.josephine19@gmail.com](mailto:k.josephine19@gmail.com) .
+* 🧠  Currently I'm learning Redux.
 
 ### Skills
 
